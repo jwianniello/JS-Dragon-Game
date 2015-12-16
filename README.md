@@ -4,7 +4,7 @@
    
    
    
-   //demonstrating use of loops in Javascript
+     //demonstrating use of loops in Javascript
    
    
      var slaying = true;
