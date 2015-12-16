@@ -21,4 +21,4 @@
         console.log("The dragon defeated you.");
         }    
     slaying = false;
-}
+    }
