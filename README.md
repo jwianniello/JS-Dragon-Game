@@ -1,11 +1,11 @@
 # JS-Dragon-Game
 
-var slaying = true;
-var youHit = Math.floor(Math.random() * 2);
-var damageThisRound = Math.floor(Math.random()*5 + 1);
-var totalDamage = 0;
+    var slaying = true;
+    var youHit = Math.floor(Math.random() * 2);
+    var damageThisRound = Math.floor(Math.random()*5 + 1);
+    var totalDamage = 0;
 
-while(slaying){
+    while(slaying){
     if (youHit = 1){
         console.log("You hit the dragon!");
         totalDamage = damageThisRound += totalDamage;
@@ -17,7 +17,7 @@ while(slaying){
     
             }
         }
-    else {
+     else {
         console.log("The dragon defeated you.");
         }    
     slaying = false;
